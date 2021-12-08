@@ -1,23 +1,7 @@
-# Flask Web App Tutorial
+# Web Login Application Using Flask
 
-## Setup & Installtion
+The frontend of the application incorporates Html,Css and Javascript.
+The backend of the application incorporates Python at its core with an 
+integrated SQL database.
 
-Make sure you have the latest version of Python installed.
 
-```bash
-git clone <repo-url>
-```
-
-```bash
-pip install -r requirements.txt
-```
-
-## Running The App
-
-```bash
-python main.py
-```
-
-## Viewing The App
-
-Go to `http://127.0.0.1:5000`
